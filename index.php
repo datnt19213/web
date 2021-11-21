@@ -41,7 +41,7 @@
                   <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
                         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                             <li class="nav-item" id="hover">
-                                <a class="nav-link active" aria-current="page" id="hover" href="Main_Page.php">Home</a>
+                                <a class="nav-link active" aria-current="page" id="hover" href="index.php">Home</a>
                             </li>
                             <li class="nav-item" id="hover">
                                 <a class="nav-link active" aria-current="page" id="hover" href="?page=information">Information</a>
@@ -51,8 +51,8 @@
                                   Products
                                 </a>
                                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown" style="background-color: #40407a;">
-                                        <li id="hover"><a class="dropdown-item" id="hover" href="?page=devices">Devices</a></li>
-                                        <li id="hover"><a class="dropdown-item" id="hover" href="?page=accessories">Accessories</a></li>
+                                        <li id="hover"><a class="dropdown-item" id="hover" href="index.php">Devices</a></li>
+                                        <li id="hover"><a class="dropdown-item" id="hover" href="index.php">Accessories</a></li>
                                     </ul>
                             </li>
                             <li class="nav-item" id="hover">
