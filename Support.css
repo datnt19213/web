@@ -1,0 +1,57 @@
+*{
+    margin: auto;
+    padding: 0px;
+}
+
+#qsp{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    border-bottom: 2px solid gray;
+    font-weight: bold;
+    color: gray;b
+}
+
+#spwrapper{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+#txtsp{
+    border: 2px solid gray;
+}
+
+#lbsp{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 2% 0px;
+    padding-left: 2%;
+}
+
+#submitsp{
+    margin: 10% 35%;
+    width: 30%;
+    background-color: white;
+    border: 2px solid silver;
+}
+
+#submitsp:hover{
+    background-color: #f0f0f0;
+    transition: ease ease-in-out;
+    transition: 0.3s;
+    border-radius: 3px;
+}
+
+#emailsp{
+    width: 100%;
+    border: 2px solid gray;
+}
+
+#form-sp{
+    background-color: white;
+    width: 100%;
+    margin: 2% 2% 2% 2%;
+    padding: 2%;
+    border: 2px solid gray;
+    border-radius: 10px;
+}

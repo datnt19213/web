@@ -1,0 +1,30 @@
+*{
+    margin: auto;
+    padding: 0px;
+}
+
+#wrapper{
+    background-color: #EAE9E5;
+    background-size: auto;
+    margin: 0px 1%;
+}
+
+#form-infor{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    background-color: white;
+    width: 90%;
+    height: 300px;
+    margin-bottom: 2%;
+    margin-top: 2%;
+    padding: 2%;
+    overflow: hidden;
+}
+
+#header-information{
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}

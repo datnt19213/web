@@ -1,0 +1,122 @@
+*{
+    margin: auto;
+    padding: 0px;
+}
+
+#wrapper{
+    background-color: #EAE9E5;
+    background-size: auto;
+    margin: 0px 1%;
+}
+
+form{
+    text-align: center;
+    background-color: white;
+    padding: 5% 5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    width: 50%;
+    height: fit-content;
+    border: 2px solid gray;
+    border-radius: 10px;
+}
+
+#register-header{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 20px;
+    padding-bottom: 10%;
+}
+
+input{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    width: 70%;
+    height: 30%;
+    border: 1px solid gray;
+    border-radius: 3px;
+}
+
+#fullname #label{
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding-left: 15%;
+}
+
+#username #label{
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding-left: 15%;
+}
+
+#email #label{
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding-left: 15%;
+}
+
+#password #label{
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding-left: 15%;
+}
+
+#confirmPassword #label{
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding-left: 15%;
+}
+
+#btnRegister #btnReg{
+    font-size: 30px;
+    color: white;
+    background-color: #474787;
+}
+
+#btnRegister #btnReg:hover{
+    background-color: #3c40c6;
+    color: white;
+    transition: ease-in-out;
+    transition: all 0.3s;
+    cursor: pointer;
+}
+
+#usernameInput{
+    text-align: left;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+#fullname #fullnameInput{
+    text-align: left;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+#email #email-txt{
+    text-align: left;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+#password #passwordInput{
+    text-align: left;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+#confirmPassword #confirmPasswordInput{
+    text-align: left;
+    padding-left: 2%;
+    padding-right: 2%;
+}

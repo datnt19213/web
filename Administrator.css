@@ -1,0 +1,179 @@
+*{
+    margin: auto;
+    padding: 0px;
+}
+
+#img-icon{
+    background-color: transparent;
+    width: 70px;
+    height: 50px;
+    cursor: pointer;
+    text-align: center;
+}
+
+#txtbtn{
+    text-decoration: none;
+    color: black;
+}
+
+#txt-PaU{
+    background-image: linear-gradient(90deg, white, #c0392b, white);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: bold;
+    border-bottom: 2px solid silver;
+    padding: 0% 2%;
+    margin: 0% 10%;
+    width: 80%;
+}
+
+#list-aud{
+    display: flex;
+    width: 80%;
+    height: 10%;
+    padding: 2%;
+    
+}
+
+#show-aud{
+    margin: 2% 2%;
+    border: 2px solid gray;
+    border-radius: 5px;
+    background-color: white;
+}
+
+#data-aud{
+    margin: 2% 2%;
+    padding: 2px 2px;
+    width: 96%;
+    height: auto;
+    border: 2px solid gray;
+    border-radius: 3px;
+    background-color: white;
+}
+
+#tb-data{
+    width: 96%;
+    margin: 2%;
+}
+
+#boxdata{
+    border: 2px solid gray;
+    margin: 0%;
+}
+tr, th{
+    border: 2px solid gray;
+    padding: 2px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#h-txt{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif;
+    padding: 2% 0%;
+    border-bottom: 2px solid silver;
+    width: 96%;
+}
+
+#add-form{
+    margin: 2% 30%;
+    padding: 2% 2%;
+    width: 40%;
+    height: auto;
+    background-color: white;
+    border: 2px solid gray;
+    border-radius: 5px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#txtProname-add, #numType-add,#Price-add, #proQty-add{
+    width: 96%;
+}
+
+#txtProname-add:hover, #numType-add:hover, #Price-add:hover, #proQty-add:hover{
+    box-shadow: 0px 2px 5px gray;
+}
+
+#add{
+    margin: 10% 40%;
+    width: 20%;
+    background-color: white;
+    border: 2px solid gray;
+    border-radius: 3px;
+}
+
+#add:hover{
+    background-color: #70a1ff;
+    transition: ease-in-out;
+    transition: all 0.3s;
+}
+
+#edit-func{
+    font-size: 18px;
+    font-weight: bold;
+    color: #2980b9;
+    width: 100%;
+    height: auto;
+    border: none;
+    background-color: white;
+}
+
+#edit-func:hover{
+    background-color: #c0392b;
+    color: white;
+    transition: ease-in-out;
+    transition: all 0.3s;
+}
+
+#updateFrm{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+    border-bottom: 2px solid silver;
+    width: 96%;
+    padding: 2% 0px;
+}
+
+#frmUpdate{
+    margin: 2% 30%;
+    padding: 2% 2%;
+    width: 40%;
+    height: auto;
+    background-color: white;
+    border: 2px solid gray;
+    border-radius: 5px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#upProID{
+    opacity: 0.5;
+}
+
+#upProID, #upProName, #upProImg, #upProCate, #upProPrice, #upProQty{
+    width: 96%;
+}
+#upProName:hover, #upProImg:hover, #upProCate:hover, #upProPrice:hover, #upProQty:hover{
+    box-shadow: 0px 2px 5px gray;
+}
+
+#update{
+    margin: 10% 40%;
+    width: 20%;
+    background-color: white;
+    border: 2px solid gray;
+    border-radius: 3px;
+}
+
+#update:hover{
+    background-color: #70a1ff;
+    transition: ease-in-out;
+    transition: all 0.3s;
+}
