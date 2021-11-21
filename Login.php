@@ -49,9 +49,9 @@
             </div>
             <div id="username">
                 <div id="label">
-                    <label>Username:</label><br/>
+                    <label>User ID:</label><br/>
                 </div>
-                <input type="text" name="txtUsername" id="usernameInput" placeholder="Enter username">
+                <input type="text" name="txtUsername" id="usernameInput" placeholder="Enter User ID">
             </div>
             <div id="password">
                 <div id="label">
