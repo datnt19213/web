@@ -19,7 +19,7 @@
                     <div>
                         <ul id="list-aud">
                             <li>
-                                <a href="?page=del">
+                                <a href="?page=add">
                                     <img src="images/add_icon.png" alt="" id="img-icon"></a>
                                 </a>
                             </li>
